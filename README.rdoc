@@ -1,4 +1,4 @@
-== Проект Perseus
+== Проект Perseus branch RK Users
 WEB база для работы с клиентами в ГСО
 
 Технологии:
